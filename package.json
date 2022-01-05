@@ -1,0 +1,22 @@
+{
+  "name": "newtravisdemoapp",
+  "version": "1.0.0",
+  "description": "node app deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sud24353/NewTravisDemoApp.git"
+  },
+  "author": "sudipto bhowmik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sud24353/NewTravisDemoApp/issues"
+  },
+  "homepage": "https://github.com/sud24353/NewTravisDemoApp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
